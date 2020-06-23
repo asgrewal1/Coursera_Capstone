@@ -10,7 +10,7 @@ The problem in the following scenario is being addressed: A hard-working entrepr
 where you describe the data that will be used to solve the problem and the source of the data.
 
 **
-**\n /n
+**
 **
 **
 **
@@ -18,6 +18,8 @@ where you describe the data that will be used to solve the problem and the sourc
 **
 **
 **
+
+
 #### Section Criteria: 
 
 
