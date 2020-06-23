@@ -1,4 +1,5 @@
-# Cousera_Capstone Project "Battle of the Neighborhoods"
+# Cousera_Capstone Project 
+## "Battle of the Neighborhoods"
 Repository for capstone project from coursera
 
 ## Introduction
