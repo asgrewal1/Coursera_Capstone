@@ -4,36 +4,12 @@ Repository for capstone project from coursera
 
 ## Introduction
 
-The problem in the following scenario is being addressed: A hard-working entrepreneur is seeking to open a restuarant area and would like it to be in the Toronto area, in Canada. Unfortunately, this client is unsure of where to place this restuarant wherein maximal profit can result. As this client is a skilled award-winning chef, the menu will likely be on the pricier side. Ideally, one would want to be in an area with a plethora of foot traffic (i.e., where there are plenty of things to do and even some restuarants nearby). Also, one does not want to be located in an area with a high crime rate, in that loss of property could place the client out of business. Perfoming data analysis will attempt to lock in a neighborhood or an area of possible interest to the client.
+The problem in the following scenario is being addressed: A hard-working entrepreneur is seeking to open a high- end indian restuarant and would like it to be in the Toronto area, in Canada. This client requests an area to place this restaurant wherein maximal profit can result. Ideally, the client would like to house this restuarant in an area where there is not substantial competition. Perfoming data analysis will attempt to lock in a neighborhood or an area of possible interest to the client using these key parameters.
+
+
 
 ## Data 
-where you describe the data that will be used to solve the problem and the source of the data.
 
-**
-**
-**
-**
-**
-** Please ignore the sections below for the time being. Thank you. **
-**
-**
-**
+Several groups of data will need to be utilized for this study. The Foursquare database will need to be utilized to find the density of indian restuarants, as well as location and neighborhood data. Foursquare API calls will be conducted to find locations of existing indian restuarants, while location data will be obtained from an csv file originating from the Geocoder Python package. Lastly, neighborhood data will be collected from the Wikipedia page, "List of postal codes of Canada: M".  
 
 
-#### Section Criteria: 
-
-
-
-## Methodology 
-(represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.)
-
-## Results 
-(discuss the results)
-
-## Discussion 
-(discuss any observations you noted and any recommendations you can make based on the results.)
-
-## Conclusion 
-(conclude the report.)
-
-(Introduction) Discuss the business problem and who would be interested in this project.
