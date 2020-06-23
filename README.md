@@ -15,3 +15,19 @@ Finding an appropriate place to start a restuarant is of ut-most importance, for
 Several groups of data will need to be utilized for this study. The Foursquare database will need to be utilized to find the density of indian restuarants, as well as location and neighborhood data. Foursquare API calls will be conducted to find locations of existing indian restuarants, while location data will be obtained from an csv file originating from the Geocoder Python package. Toronto's Census data will be used to compile average income per neighborhood to meaningfully compare with current competition assessments. This data can be found at the City of Toronto's Open Data Portal. Lastly, neighborhood data will be collected from the Wikipedia page, "List of postal codes of Canada: M". A K-means clustering algorithm will be applied to group areas in accordance to the quantity of indian restuarants interplayed with the income of residents in those respective neighborhoods.
 
 
+#### Section Criteria: 
+
+
+
+## Methodology 
+(represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.)
+
+## Results 
+(discuss the results)
+
+## Discussion 
+(discuss any observations you noted and any recommendations you can make based on the results.)
+
+## Conclusion 
+(conclude the report.)
+
