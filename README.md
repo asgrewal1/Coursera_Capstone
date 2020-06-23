@@ -20,7 +20,7 @@ where you describe the data that will be used to solve the problem and the sourc
 **
 #### Section Criteria: 
 
-(Introduction) Discuss the business problem and who would be interested in this project.
+
 
 ## Methodology 
 (represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.)
@@ -33,3 +33,5 @@ where you describe the data that will be used to solve the problem and the sourc
 
 ## Conclusion 
 (conclude the report.)
+
+(Introduction) Discuss the business problem and who would be interested in this project.
