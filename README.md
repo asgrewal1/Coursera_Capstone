@@ -9,12 +9,15 @@ The problem in the following scenario is being addressed: A hard-working entrepr
 ## Data 
 where you describe the data that will be used to solve the problem and the source of the data.
 
-
-
-
-
+*
+*
+*
+*
+*
 ** Please ignore the sections below for the time being. Thank you. **
-
+*
+*
+*
 #### Section Criteria: 
 
 (Introduction) Discuss the business problem and who would be interested in this project.
