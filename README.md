@@ -4,7 +4,7 @@ Repository for capstone project from coursera
 
 ## Introduction
 
-The problem in the following scenario is being addressed: A hard-working entrepreneur is seeking to open a high- end indian restuarant and would like it to be in the Toronto area, in Canada. This client requests an area to place this restaurant wherein maximal profit can result. Ideally, the client would like to house this restuarant in an area where there is not substantial competition. Perfoming data analysis will attempt to lock in a neighborhood or an area of possible interest to the client using these key parameters.
+Consider the following scenario: A hard-working entrepreneur is seeking to open a high-end indian restuarant and would like it to be in the Toronto area, Ontario, Canada. This client requests to find an area to place this restaurant wherein maximal profit could result. Ideally, the client would like to house this restuarant in an area where there is not substantial competition. Perfoming data analysis will attempt to lock in a neighborhood or an area of possible interest to the client using these key parameters. 
 
 
 
