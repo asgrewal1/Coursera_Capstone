@@ -1,4 +1,4 @@
-# Cousera_Capstone Project 
+# Cousera_Capstone Project Report
 ## "Battle of the Neighborhoods"
 Repository for capstone project from coursera
 
@@ -15,15 +15,14 @@ Finding an appropriate place to start a restuarant is of ut-most importance, for
 Several groups of data will need to be utilized for this study. The Foursquare database will need to be utilized to find the density of indian restuarants, as well as location and neighborhood data. Foursquare API calls will be conducted to find locations of existing indian restuarants, while location data will be obtained from an csv file originating from the Geocoder Python package. Toronto's Census data will be used to compile average income per neighborhood to meaningfully compare with current competition assessments. This data can be found at the City of Toronto's Open Data Portal. Lastly, neighborhood data will be collected from the Wikipedia page, "List of postal codes of Canada: M". A K-means clustering algorithm will be applied to group areas in accordance to the quantity of indian restuarants interplayed with the income of residents in those respective neighborhoods.
 
 
-#### Section Criteria: 
-
-
-
 ## Methodology 
-(represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.)
+Once fully understanding the problem, one then had to develop an analytical approach. To solve the problem at hand, K-means clustering algorithms were used for this task after careful consideration. This algorithm was used to create three distinct clusters in the Toronto area, accounting for income, population, and density of indian restuarants. The data was to be converted to integer format so that statistical analysis could be conducted on it. It was important for data to be collected from free online websites to reduce costs. When retrieving information from Wikipedia and from the City of Toronto, it was crucial to organize the data into dataframes in a proper way. At various intervals, the data was frequently checked for discrepancies and N/A points. After some confidence developed in this regard, the model was created. 
+
 
 ## Results 
 (discuss the results)
+inexact science
+It was found that 
 
 ## Discussion 
 (discuss any observations you noted and any recommendations you can make based on the results.)
