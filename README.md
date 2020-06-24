@@ -20,13 +20,12 @@ Once fully understanding the problem, one then had to develop an analytical appr
 
 
 ## Results 
-(discuss the results)
-inexact science
-It was found that 
+When examining the K-means algorithm results, it was clear there was a high concentration of indian restuarants in Scarborough, a city north-east of downtown Toronto. Very north of downtown Toronto has a small number of indian restuarants, but the income level is considerably lower. The downtown Toronto area had the second-most number of restuarants, but it is a heavily traveled area with a large population.  
+
+
 
 ## Discussion 
-(discuss any observations you noted and any recommendations you can make based on the results.)
+Just north of Toronto downtown seemed like a good candidate, due to a small number of restuarants, but the income level is considerably lower in this area. It is suggested that the client NOT launch their restaurant in the Scarborough due to extremely high competition. Income levels in the selected ideal area are also higher in comparison with certain other areas, ensuring that the restuarant has visibility to its target customers. Because it is important to be near high levels of population in neighborhoods such as Wellesley, Dundas, and College but somewhat distant from clusters of indian restuarants, it is suggested that the client choose Rosedale-Moore Park or Yonge-St.Clair as the ideal location for their restuarant. 
 
 ## Conclusion 
-(conclude the report.)
-
+Several factors were not taken into account, such as the leasing of the land was not taken into account. This may impact the selection of the restuarant location. Due to limited amount of time to work on this project, many factors were ignored that may very well play an integral factor in restaurant selection. Such factors include parking, crime rates, affordability, and accessibility, to name a few. 
